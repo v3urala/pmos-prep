@@ -11,8 +11,8 @@ Most people with suspected PMOS spend years undiagnosed - partly because symptom
 - **Basic information about you** - details such as age and ethnicity that can factor into the diagnosis
 - **Cycle log** - track the last 3–6 cycles with length, cramp severity, and notes. Flags irregular cycles and visualises patterns over time
 - **Lifestyle context** - captures sleep, stress, exercise, and diet, which directly influence hormonal health and inform the doctor's recommendations
-- **Family history** - records first-degree family conditions like PCOS, type 2 diabetes, thyroid conditions, and insulin resistance — one of the most overlooked but clinically significant inputs
-- **Symptom selector** - categorised by reproductive, metabolic, dermatological, and psychological — with severity, duration, and progression per symptom
+- **Family history** - records first-degree family conditions like PCOS, type 2 diabetes, thyroid conditions, and insulin resistance - one of the most overlooked but clinically significant inputs
+- **Symptom selector** - categorised by reproductive, metabolic, dermatological, and psychological - with severity, duration, and progression per symptom
 - **AI-generated summary** - sends the full profile to Gemini and returns a plain-English symptom summary, 5–6 specific questions to ask the doctor, and 3-4 tests to request
 - **Print to PDF** - clean one-page output the user can hand to their GP
 
