@@ -2,6 +2,8 @@
 
 A web app that helps people with suspected PMOS (Polyendocrine Metabolic Ovarian Syndrome) prepare for a doctor's appointment. Instead of walking in with a vague list of symptoms, users walk out with a structured, AI-generated summary their GP can actually use.
 
+🔗 **[Live app → pmos-prep.vercel.app](https://pmos-prep.vercel.app)**
+
 ## Why this exists
 
 Most people with suspected PMOS spend years undiagnosed - partly because symptoms are easy to dismiss in isolation, and partly because a 10-minute GP appointment doesn't leave room to articulate a complex, multi-system symptom pattern clearly. This tool structures that conversation before it happens.
